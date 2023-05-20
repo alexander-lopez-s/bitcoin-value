@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Consuming APIs usign React Hooks to display the live Bitcoin price.
+API used: https://api.coindesk.com/v1/bpi/currentprice.json
 
 ## Available Scripts
 
