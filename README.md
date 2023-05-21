@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# `useState` and `useEffect` hooks.
 
 Consuming APIs usign React Hooks to display the live Bitcoin price.
 API used: https://api.coindesk.com/v1/bpi/currentprice.json
